@@ -6,7 +6,7 @@
  Uygulamada tanışıp beraber oyun oynadıkları insan ile post paylaşıp eşleştiği insanı da puanlayabilir.
  Uygulamada kişisel bilgilere (Telefon numarası) erişmeye gerek kalmadan mesajlaşılabilir.
 
- Uygulama Fotoğrafları
+ Uygulama Fotoğrafları <br>
 <img src="https://github.com/MuhammetCakirr/FreeHobby/assets/100643237/a7a433d0-9446-47aa-961b-a17b1bf783175" width="200"  >
 <img src="https://github.com/MuhammetCakirr/FreeHobby/assets/100643237/5774dd08-671a-4a97-b525-303de3da1f4a" width="200"  >
 <img src="https://github.com/MuhammetCakirr/FreeHobby/assets/100643237/30ad8c2e-d4f1-4adb-b745-362be549413b" width="200"  >
